@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color:lightgoldenrodyellow;
+}
+
 .title h1 {
     text-align: center;
     padding: 5px;
